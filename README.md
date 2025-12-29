@@ -1,7 +1,6 @@
-# Math 3094 
+# Math 3180 
 ## Undergraduate Machine Learning 
 
-- Kyu-Hwan Lee
 - Jeremy Teitelbaum
 
-[This course is best accessed through its published link](https://jeremy9959.net/Math-3094-UConn/).
+[This course is best accessed through its published link](https://jeremy9959.net/Math-3180-UConn/).
