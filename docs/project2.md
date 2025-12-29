@@ -10,7 +10,7 @@ as a jupyter notebook that explains what you did and includes any code you used 
 Alternatively, you may continue working with the dataset you used for your first project, and use
 new techniques or refine your analysis.
 
-We will use the last day of class (April 27th) and our assigned finals time (8-10 am on May 2 in Mont 321)
+We will use the last day of class (April 30th) and our assigned finals time (TBA)
 for presentations of the projects.
 
 The original penguin dataset (packaged for the statistical language R) is available

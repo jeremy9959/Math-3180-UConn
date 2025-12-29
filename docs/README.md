@@ -1,6 +1,6 @@
 # Honors Seminar in Machine Learning
 
-Math 3094, Spring Semester 2023<br>
+Math 3180, Spring Semester 2026<br>
 University of Connecticut<br>
 
 ### Instructor
@@ -22,7 +22,7 @@ and practice.
 
 ### Schedule
 
-The course will meet Tuesdays and Thursdays from 9:30 AM to 10:45 AM in Monteith 321. 
+The course will meet Tuesdays and Thursdays from 9:30 AM to 10:45 AM in Monteith 112. 
 
 ### Topics
 

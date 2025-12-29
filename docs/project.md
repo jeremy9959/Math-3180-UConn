@@ -23,7 +23,7 @@ the ideas there in more depth or using different data.
 
 We suggest meeting with you to discuss your plans before you get too far along.
 
-The project will be due March 22, 2022.
+The project will be due March 10, 2026 and we will have presentations on March 11 and 13th, 2026.
 
 ## Datasets
 
