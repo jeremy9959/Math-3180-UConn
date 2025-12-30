@@ -110,15 +110,12 @@ _References_
 Goals:
 
 - Learn the process of Bayesian inference (see also the notes on probability above).
-  - [Intro to Bayesian Inference](https://youtu.be/sk1elwY_Ggo)
-  - [Bayesian Coin Flipping](https://youtu.be/NHfQ_88y0CE)
 - Understand over-fitting in linear regression
 - Study Bayesian linear regression
-- Understand the ideas of linear discriminant analysis
-  - [Bayesian Linear Regression](slides/bayesian-lin-reg.pdf)
-  - [Linear Discriminant Analysis](slides/LDA.pdf)
-  - [Dimensionality Reduction via LDA](slides/dim-red-LDA.pdf)
 
+  - [Intro to Bayesian Inference](https://youtu.be/sk1elwY_Ggo)
+  - [Bayesian Coin Flipping](https://youtu.be/NHfQ_88y0CE)
+  - [Bayesian Inference Notes](https://jeremy9959.net/Mathematics-for-Machine-Learning/chapters/03-1-Bayesian-Inference.html)
 _References_
 
 - Bayesian Regression Lab -- includes notebook(s) and data [zip](published_notes/notes/bayesian-regression.zip) [tgz](published_notes/notes/bayesian-regression.tgz)

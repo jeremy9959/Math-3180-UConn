@@ -1,10 +1,10 @@
 # Honors Seminar in Machine Learning
 
-Math 3094, Spring Semester 2022<br>
+Math 3180, Spring Semester 2026<br>
 University of Connecticut<br>
 
-### Instructors
-- [Kyu-Hwan Lee](mailto:khlee@math.uconn.edu)
+### Instructor
+
 - [Jeremy Teitelbaum](mailto:jeremy.teitelbaum@uconn.edu)
 
 ### Introduction
@@ -21,14 +21,14 @@ and practice.
 
 ### Schedule
 
-The course will meet synchronously online on Tuesdays and Thursdays from 
-11:00 to 12:15 EST.
+The course will meet  Tuesdays and Thursdays from 
+9:30 to 10:45 EST in Monteith 112.
 
 ### Topics
 
 Topics will include Linear Regression, Gradient Descent, Logistic Regression,
 Principal Component Analysis, and others as time permits.  The course will include
-both (online) lectures and lab sessions.
+both  lectures and lab sessions.
 
 ### Assessment
 
@@ -52,7 +52,7 @@ from the Anaconda website: [www.anaconda.com](http://www.anaconda.com).
 A very brief guide to installing the software is [available here](installing.md).
 
 
-There is no official textbook for the course.  We will be providing notes as we progress. 
+The main reference for the course will be [these notes](http://jeremy9959.net/Mathematics-for-Machine-Learning)  
 The following texts may be useful as references.
 
 - James, Witten, Hastie, Tibshirani.  An Introduction to Statistical Learning (with Applications
