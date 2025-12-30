@@ -116,6 +116,7 @@ Goals:
   - [Intro to Bayesian Inference](https://youtu.be/sk1elwY_Ggo)
   - [Bayesian Coin Flipping](https://youtu.be/NHfQ_88y0CE)
   - [Bayesian Inference Notes](https://jeremy9959.net/Mathematics-for-Machine-Learning/chapters/03-1-Bayesian-Inference.html)
+  
 _References_
 
 - Bayesian Regression Lab -- includes notebook(s) and data [zip](published_notes/notes/bayesian-regression.zip) [tgz](published_notes/notes/bayesian-regression.tgz)
